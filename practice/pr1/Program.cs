@@ -19,7 +19,7 @@ internal class Program
 
         //Створення об'єктів класу Authority.
         Authority sloth = new Authority("Лінь", 20);
-        Authority greed = new Authority("Жадібноість", 13);
+        Authority greed = new Authority("Жадібність", 13);
 
         //Створення списку бійців
         List<Character> fighters = new List<Character>
